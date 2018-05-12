@@ -1,0 +1,28 @@
+_repo: Magie-bij-de-Grieken-en-de-Romeinen_15215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jong, K. H. E. de (Karel Hendrik Eduard)
+    alias: Jong, Karel Hendrik Eduard de
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '5918'
+    url: http://www.gutenberg.org/2009/agents/5918
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15215'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic, Greek'
+- !lcc 'BF'
+- !lcsh 'Magic, Roman'
+title: Magie bij de Grieken en de Romeinen
+url: http://www.gutenberg.org/ebooks/15215
